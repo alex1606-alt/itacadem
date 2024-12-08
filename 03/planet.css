@@ -12,7 +12,12 @@ h3.center{
 }
 .img-left{
     text-align: left;
+    
 }
 .img-right{
     text-align: right;
+}
+.cid{
+    width: 1500px;
+    height: 900px;
 }
