@@ -1,6 +1,14 @@
-.smile{
+body {
     background-image: url("../img/Rectangle\ 1.png");
-
-    width: 2300px;
-    height: 1100px;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    margin: 0; 
+    height: 100vh; 
 }
+
+.rot div {
+    display: inline-block;
+    margin-right: 20px;
+}
+
