@@ -12,3 +12,84 @@ body {
     margin-right: 20px;
 }
 
+.xs{
+    margin-top: 70px;
+}
+.kl{
+    margin-top: 20px;
+}
+.cv{
+    margin-top: 20px;
+}
+
+.vb{
+    margin-top: 20px;
+}
+.fa-magnifying-glass{
+    color: aliceblue;
+
+}
+.face{
+    padding-left: 50px;
+    
+}
+.icon {
+    position: fixed; 
+    top: 10px; 
+    right: 10px; 
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
+  }
+  .icon i {
+    font-size: 30px; 
+  }
+
+  .fa-star{
+    color: gold;
+  }
+  .star{
+    display: flex; 
+    align-items: center; 
+    gap: 10px;
+   margin-top: 20px;
+  }
+  .sr{
+    color: aliceblue;
+  }
+  .tabl{
+    margin-top: 30px;
+    display: flex; 
+  gap: 20px; 
+  }
+
+  .ta {
+    position: relative; 
+    display: inline-block;
+      }
+
+     .img{
+        margin-top: 30px;
+        display: flex; 
+      gap: 20px; 
+
+     } 
+  .cnn{
+
+    margin-top: 30px;
+        
+  }
+
+  .tip{
+    position: fixed; 
+    bottom: 10px; 
+    right: 10px; 
+    width: 100px; 
+    height: 50px; 
+    background-color: darkolivegreen;
+  
+  }
+  
+  
+
+
