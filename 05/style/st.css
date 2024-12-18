@@ -93,6 +93,11 @@ body {
 
   .tb{
     background-image: url("../img/Rectangle\ 3.png");
+    width: 200px; 
+    height: 50px;
+    
+    background-size: cover; 
+    background-repeat: no-repea
   }
   .cont{
     width: 30px;
