@@ -1,0 +1,35 @@
+.conteiner{
+   display: flex; 
+   border: 1px solid black;
+}
+.column{
+    box-sizing:border-box ;
+    padding: 20px;
+    border: 1px solid black;
+    flex: 1;
+    
+}
+
+.conteiner-grow{
+    display: flex;
+    border: 1px solid black;
+    margin-top: 50px;
+
+}
+.column1,.column2,.column3{
+
+    box-sizing:border-box ;
+    padding: 20px;
+    border: 1px solid black;
+}
+.column1,.column3{
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+}
+.column2{
+    flex-grow: 3;
+    flex-shrink: 1;
+    flex-basis: 0;
+
+}
