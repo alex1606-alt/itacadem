@@ -111,6 +111,9 @@ body {
     position: relative;
     
     border-radius: 10px;
+    display: inline-block;
+    
+    
     
   }
 

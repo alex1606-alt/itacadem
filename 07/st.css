@@ -14,6 +14,7 @@
     display: flex;
     border: 1px solid black;
     margin-top: 50px;
+    
 
 }
 .column1,.column2,.column3{
@@ -28,8 +29,9 @@
     flex-basis: 0;
 }
 .column2{
-    flex-grow: 3;
+    flex-grow: 8;
     flex-shrink: 1;
-    flex-basis: 0;
+    flex-basis: 500px;
+    
 
 }
