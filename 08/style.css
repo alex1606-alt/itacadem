@@ -1,0 +1,80 @@
+body {
+    background-image: url("img/shillong-2847249\ 1.png");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    margin: 0; 
+    height: 100%; 
+}
+.im{
+    margin-left: 50px;
+}
+.bt{
+    background-color: dodgerblue;
+    color: aliceblue;
+    width: 180px;
+    height: 70px;
+    
+    
+}
+.fa-bars{
+    color: bisque;
+}
+.hed{
+    display: flex; 
+    align-items: center; 
+    gap: 10px;
+   margin-top: 20px;
+  }
+  .hed > *:nth-child(1) {
+    margin-right: 1150px; 
+}
+
+.hed > *:nth-child(2) {
+    margin-right: 20px; 
+}
+.hero{
+    width: 600px;
+    height: 700px;
+
+}
+.her{
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.cen{
+    color: beige;
+
+
+}
+.cn{
+    color: beige;
+    margin: 0;
+}
+.ind{
+    background-color: transparent;
+    color: beige;
+    width: 80px;
+    height: 40px;
+    
+  font-size: 16px; 
+  
+  
+  
+  cursor: pointer; 
+  
+}
+.main {
+    display: flex; 
+    flex-direction: row; 
+    gap: 500px; 
+    justify-content: center; 
+    align-items: center; 
+  }
+  .tex {
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
+    margin-right: 500px;
+  }
+  

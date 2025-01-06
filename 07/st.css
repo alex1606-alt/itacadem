@@ -1,12 +1,13 @@
 .conteiner{
    display: flex; 
-   border: 1px solid black;
+   border: 10px solid rgb(218, 15, 15);
 }
 .column{
     box-sizing:border-box ;
-    padding: 20px;
+    padding: 50px;
     border: 1px solid black;
     flex: 1;
+    text-align: right;
     
 }
 
@@ -29,9 +30,9 @@
     flex-basis: 0;
 }
 .column2{
-    flex-grow: 8;
+    flex-grow:8;
     flex-shrink: 1;
-    flex-basis: 500px;
+    flex-basis: 100px;
     
 
 }
