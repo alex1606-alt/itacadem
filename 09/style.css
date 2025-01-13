@@ -1,7 +1,38 @@
 header{
-    background-color: green;
+    background-color: rgb(110, 105, 44);
 }
 .border{
    
     border-width: 10px;
 }
+.container-fluid{
+    background-color: rgb(90, 55, 55);
+}
+.container{
+    
+}
+.hd{
+    padding-left: 400px;
+}
+.bd{
+    padding-left: 150px;
+}
+.vd{
+    padding-left: 700px;
+}
+.mt{
+    padding-left:500px ;
+}
+.container-fluid{
+    background-image: url("img/メインビジュアル.png");
+    min-height: 50vh;
+    background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  min-height: 50vh; 
+  position: relative;
+}
+.sv{
+    margin-left: 600px;
+}
+
