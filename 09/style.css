@@ -1,3 +1,7 @@
 header{
     background-color: green;
 }
+.border{
+   
+    border-width: 10px;
+}
